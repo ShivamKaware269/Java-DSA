@@ -1,3 +1,5 @@
+// A program to find wheteher a number is Palindrome or not using methods (Functions)
+
 import java.util.Scanner;
 
 public class Palindrome {
