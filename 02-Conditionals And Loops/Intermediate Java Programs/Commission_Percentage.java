@@ -1,4 +1,3 @@
-// Calculate Commission Percentage
 
 import java.util.Scanner;
 
